@@ -11,8 +11,7 @@ public class Politician extends Person {
     }
 
     public void calculateSalary() {
-        // Perform salary calculation based on political experience
-        // For simplicity, let's assume a fixed salary amount
+        
         salary = politicalExperience * 10000;
     }
 
