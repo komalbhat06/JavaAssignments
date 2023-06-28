@@ -11,8 +11,6 @@ public class Sportsman extends Person {
     }
 
     public void calculateSalary() {
-        // Perform salary calculation based on sport
-        // For simplicity, let's assume a fixed salary amount
         salary = 50000;
     }
 
