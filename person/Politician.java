@@ -9,12 +9,9 @@ public class Politician extends Person {
         this.politicalExperience = politicalExperience;
         calculateSalary();
     }
-
     public void calculateSalary() {
-        
         salary = politicalExperience * 10000;
     }
-
     @Override
     public void displayInfo() {
         super.displayInfo();
@@ -22,4 +19,5 @@ public class Politician extends Person {
         System.out.println("Salary: $" + salary);
     }
 }
+
 
