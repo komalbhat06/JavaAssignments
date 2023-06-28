@@ -22,3 +22,8 @@ public class Sportsman extends Person {
     }
 }
 
+        System.out.println("Sport: " + sport);
+        System.out.println("Salary: $" + salary);
+    }
+}
+
