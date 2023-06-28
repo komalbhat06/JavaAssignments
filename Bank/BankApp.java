@@ -10,9 +10,9 @@ public class BankApp {
         System.out.println("Bank Application");
         System.out.println("----------------");
 
-        boolean exit = false;
+        boolean e = false;
 
-        while (!exit) {
+        while (!e) {
             System.out.println("\nSelect an operation:");
             System.out.println("1. Deposit");
             System.out.println("2. Withdraw");
@@ -38,7 +38,7 @@ public class BankApp {
                     System.out.println("Current balance: " + balance);
                     break;
                 case 4:
-                    exit = true;
+                    e = true;
                     System.out.println(" Goodbye!");
                     break;
                 default:
