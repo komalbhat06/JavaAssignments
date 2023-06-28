@@ -39,10 +39,10 @@ public class BankApp {
                     break;
                 case 4:
                     exit = true;
-                    System.out.println("Thank you for using the Bank Application. Goodbye!");
+                    System.out.println(" Goodbye!");
                     break;
                 default:
-                    System.out.println("Invalid choice. Please select a valid operation.");
+                    System.out.println("Invalid choice.");
             }
         }
 
