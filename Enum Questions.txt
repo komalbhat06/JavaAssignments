@@ -1,5 +1,0 @@
-1.Write a Java program to create an enum called "DaysOfWeek" representing the days of the week.
-2.Write a Java program to implement an enum called "Direction" with constants representing the cardinal directions (North, South, East, West)
-3.Write a Java program that defines an enum called "Months" with constants representing the months of the year.
-4.Write a Java program to implement an enum called "Shape" with constants representing different geometric shapes.
-5.Write a Java program to create an enum called "Weekend" with constants representing the days of the weekend.
